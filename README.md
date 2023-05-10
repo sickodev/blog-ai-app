@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 This app is built using Next.js, Tailwind CSS, Prisma and OpenAI. Planetscale is used for database hosting.
-You can visit the [demo](https://blog-ai-app-sickodev.vercel.app/) here.
+You can visit the [app](https://blog-ai-app-sickodev.vercel.app/) here.
 
 <h3>Disclaimer:</h3>
 <ol>
@@ -19,7 +19,7 @@ You can visit the [demo](https://blog-ai-app-sickodev.vercel.app/) here.
 
 ## Steps
 <ol>
-<li>Open the app from the [`link`](https://blog-ai-app-sickodev.vercel.app/)</li>
+<li>Open the app from the above link.</li>
 <li>Click on any blog post.</li>
 <li>Click on the little pencil icon to edit.</li>
 <li>Enter the title and your writing style and click the rocket icon.</li>
