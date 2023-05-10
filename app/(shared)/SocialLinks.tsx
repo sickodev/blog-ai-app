@@ -11,11 +11,7 @@ type Props = {
 const SocialLinks = ({ isDark = false }: Props) => {
     return (
         <div className='flex justify-between items-center gap-7'>
-            <a
-                href='https://twitter.com/kalyan_bishwa'
-                target='_blank'
-                rel='noreferrer'
-            >
+            <a href='https://twitter.com/' target='_blank' rel='noreferrer'>
                 <Image
                     className={`${
                         isDark ? "brightness-0" : ""
